@@ -10,6 +10,8 @@ Each coding club session will feature some sort of coding tutorial for some aspe
 
 So far, and in no particular order, we plan to provide the turorials on the following topics:
 - Data visualisation (ggplot2)
+- R Markdown - creating automatic reports
+- Shiny apps - making tools for manual data interaction
 - Data ordination (PCoA and NMDS)
 - Network analysis (Visualising and metric calculation)
 - Functional diversity (FD and FRic)
