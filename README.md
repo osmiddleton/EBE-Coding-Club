@@ -1,4 +1,4 @@
-# EBE Coding Club
+# EBE_Coding_Club
 
 Welcome to University of Sussex's Evolution, Behaviour and the Environment (EBE) Coding Club!
 
