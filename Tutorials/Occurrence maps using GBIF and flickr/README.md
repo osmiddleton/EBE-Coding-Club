@@ -1,4 +1,4 @@
-![GitHub Logo](/images/logo.jpeg)
+![GitHub Logo](/images/logo.jpg)
 
 # Week 1 Tutorial
 
