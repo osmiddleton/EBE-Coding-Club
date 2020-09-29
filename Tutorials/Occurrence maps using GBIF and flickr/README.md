@@ -1,5 +1,3 @@
-![GitHub Logo](/images/logo.png)
-
 # Week 1 Tutorial
 
 Visualising and creating heat maps of puffin occurrence records in GBIF (Global Biodiversity Information Facility) 
