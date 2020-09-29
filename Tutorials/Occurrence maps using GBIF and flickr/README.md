@@ -6,7 +6,7 @@ and from online images on Flickr (https://ourcodingclub.github.io/tutorials/seec
 Presented by: Owen Middleton
 
 # Background reading
-iEcology: Harnessing Large Online Resources to Generate Ecological Insights. 2020. Trends in Ecology and Evolution. (https://www.sciencedirect.com/science/article/pii/S016953472030077X)
+- iEcology: Harnessing Large Online Resources to Generate Ecological Insights. 2020. Trends in Ecology and Evolution. (https://www.sciencedirect.com/science/article/pii/S016953472030077X)
 
 Abstract:
 iEcology is a new research approach that seeks to quantify patterns and processes in the natural world
@@ -19,4 +19,4 @@ We expect that iEcology will experience rapid development over coming years and 
 research approaches in ecology, enhanced by emerging technologies such as automated content analysis,
 apps, internet of things, ecoacoustics, web scraping, and open source hardware.
 
-Mining Flickr: a method for expanding the known distribution of invasive species. 2019. The Herpetological Bulletin. (https://www.researchgate.net/profile/Steven_Allain/publication/334138130_Mining_Flickr_a_method_for_expanding_the_known_distribution_of_invasive_species/links/5d19fb5f92851cf4405a54d5/Mining-Flickr-a-method-for-expanding-the-known-distribution-of-invasive-species.pdf)
+- Mining Flickr: a method for expanding the known distribution of invasive species. 2019. The Herpetological Bulletin. (https://www.researchgate.net/profile/Steven_Allain/publication/334138130_Mining_Flickr_a_method_for_expanding_the_known_distribution_of_invasive_species/links/5d19fb5f92851cf4405a54d5/Mining-Flickr-a-method-for-expanding-the-known-distribution-of-invasive-species.pdf)
