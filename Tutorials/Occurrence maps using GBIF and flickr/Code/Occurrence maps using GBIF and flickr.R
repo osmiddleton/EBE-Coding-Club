@@ -192,10 +192,13 @@ ggsave("./Tutorials/Occurrence maps using GBIF and flickr/Results/GBIF Density M
 
 # Problems with Flickr API access ----
  
+
 # Could not get the API code to run.
 # I wanted to apply this to another species but could not.
 
+
 # Can anybody solve this?
+
 
 #————————————————————————————————————————————————————————————————————————————————————————————####
 # End of script ----
