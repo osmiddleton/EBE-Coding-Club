@@ -9,16 +9,16 @@ library(RCurl)
 library(XML)
 library(httr)
 
-api_key<-"99d81de52570273e185dcaf6517ab753"      #API key and secret must be obtained from https://www.flickr.com/services/api/misc.api_keys.html
-secret<- "a09b5004eec84fe8"
+api_key<-"f80cc7313c04e9f77ddba815bb8f6638"      #API key and secret must be obtained from https://www.flickr.com/services/api/misc.api_keys.html
+secret<- "0de0e4d57fb93960"
 
-myapp<-oauth_app("EBE Coding Club",
+myapp<-oauth_app("Research",
                  key = api_key,
                  secret= secret)                  #creates the app passing the key and secret
 
 
-ep<-oauth_endpoint(request="https://www.flickr.com/services/oauth/request_token"    #get authentication credentials from the API
-                   , authorize="https://www.flickr.com/services/oauth/authorize",
+ep<-oauth_endpoint(request="https://www.flickr.com/services/oauth/request_token",    #get authentication credentials from the API
+                   authorize="https://www.flickr.com/services/oauth/authorize",
                    access="https://www.flickr.com/services/oauth/access_token")
 
 

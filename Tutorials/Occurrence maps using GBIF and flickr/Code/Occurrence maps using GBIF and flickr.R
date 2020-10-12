@@ -18,7 +18,8 @@ install.packages("pacman") # Installs (if not already done) and loads packages
 library(pacman)
 
 # Load other packages using the 'pacman' packages
-pacman::p_load("rgbif", "ggplot2", "maps", "ggthemes", "sp", "rworldmap", "rgdal", "rgeos", "raster", "maptools")
+pacman::p_load("rgbif", "ggplot2", "maps", "ggthemes", "sp",
+               "rworldmap", "rgdal", "rgeos", "raster", "maptools")
 
 
 #————————————————————————————————————————————————————————————————————————————————————————————####
@@ -65,7 +66,8 @@ occur <- spTransform(occur, CRS("+proj=utm +datum=WGS84 +no_defs +ellps=WGS84 +t
 # 3. Flickr data ----
 #————————————————————————————————————————————————————————————————————————————————————————————####
 
-# You can access the code for downloading flickr data here: https://github.com/ourcodingclub/SEECC-workshop/blob/master/FlickrAPI.R
+# You can access the code for downloading flickr data
+# here: https://github.com/ourcodingclub/SEECC-workshop/blob/master/FlickrAPI.R
 
 # Load data ----
 flickr <- read.table("./Tutorials/Occurrence maps using GBIF and flickr/Data/flickr_puffins.txt", header = T, sep = "\t")
